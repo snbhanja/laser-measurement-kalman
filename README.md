@@ -1,2 +1,2 @@
 # laser-measurement-kalman
-laser measurement using kalman filter
+Tracking pedestrians in 2D from laser measurement using kalman filter
